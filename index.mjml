@@ -1,0 +1,48 @@
+<mjml>
+  <mj-head>
+    <mj-title>Raty 0% na robota koszącego, który zrobi robotę za Ciebie</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper padding="0" background-color="#ffffff">
+
+      <mj-section padding-top="41px" padding-bottom="29px">
+        <mj-column>
+          <mj-image src="./images/logo-al-ko.png" alt="Logo AL-KO" href="http://roboty.alko-garden.pl/" width="178px" fluid-on-mobile="false" align="center"
+            padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column padding="0">
+            <mj-text padding-left="6%" padding-right="6%" padding-top="0" padding-bottom="26px" color="#000000" font-size="18px" line-height="26px"
+              font-weight="400" align="center" font-family="Open Sans, sans-serif">
+            Spraw, żeby Twój trawnik wyglądał jak murawa w Lidze Mistrzów bez żadnego wysiłku.
+            </mj-text>
+            <mj-text padding-top="0" padding-bottom="18px" color="#000000" font-size="34px" line-height="38px"
+              font-weight="800" align="center" font-style="italic" text-transform="uppercase"
+              font-family="Open Sans, sans-serif">
+        MAŁY ROBOT KOSZĄCY <br> AL-KO, WIELKA POMOC, <br> NIGDY WIĘCEJ KOSZENIA!
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="19px" padding-bottom="16px">
+        <mj-group>
+          <mj-column>
+            <mj-image src="./images/banner.png" alt="Banner" href="http://roboty.alko-garden.pl/" fluid-on-mobile="false" align="center" padding="0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-left="0px" padding-right="0px" padding-top="0" padding-bottom="44px">
+        <mj-group>
+          <mj-column padding="0">
+            <mj-image src="./images/btn.png" alt="Button" href="http://roboty.alko-garden.pl/" fluid-on-mobile="true" align="center" padding="0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
